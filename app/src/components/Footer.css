@@ -1,0 +1,28 @@
+.footer {
+    display: flex;
+    align-items: center;
+    background-color: rgb(69, 72, 72);
+    color: white;
+
+}
+
+.footer title {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.footer ul {
+    display: flex;
+    list-style: none;
+}
+
+.footer ul li {
+    width: 60px;
+    margin: 0 10px;
+
+}
+
+.footer .title {
+
+}

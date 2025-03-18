@@ -1,0 +1,19 @@
+.catalog{
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.catalog h1 {
+    text-align: center;
+    color: blue;
+}
+
+.list {
+    display: inline-block;
+    width: 250px;
+    height: 320px;
+    margin-bottom: 12px;
+    margin-right: 12px;
+}

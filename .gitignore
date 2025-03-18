@@ -1,0 +1,12 @@
+/app/node_modules/
+/server/venv/
+/venv/
+
+
+
+
+# git commands
+
+git add . 
+git commit -m "Message"
+git push

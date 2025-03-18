@@ -1,0 +1,25 @@
+.navbar {
+    display: flex;
+    align-items: center;
+}
+
+.navbar title {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+}
+
+.navbar ul li {
+    width: 60px;
+    margin: 0 10px;
+
+}
+
+.navbar .title {
+
+}

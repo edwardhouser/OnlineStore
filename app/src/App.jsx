@@ -6,6 +6,8 @@ import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import Catalog from './pages/Catalog'
 import Product from './components/product'
+import About from './pages/about'
+import Admin from './pages/admin'
 
 
 //loads bootstrap and icons
@@ -15,6 +17,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.min.js";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 
+
+
 function App() {
 
 
@@ -22,6 +26,8 @@ function App() {
     <>
       <Navbar></Navbar>
       <Catalog></Catalog>
+      <About></About>
+      <Admin></Admin>
       <Footer></Footer>
     </>
   )

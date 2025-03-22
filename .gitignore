@@ -6,7 +6,8 @@
 
 
 # git commands
-
-git add . 
-git commit -m "Message"
-git push
+# git init
+# git remote add SSH link here
+# git add . 
+# git commit -m "Message"
+# git push

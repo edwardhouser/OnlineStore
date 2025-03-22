@@ -1,11 +1,30 @@
 .product{
     border: 1px solid black;
+    display: inline-block;
+    width: 250px;
+    height: 270px;
+    margin-right: 12px;
+    margin-bottom: 12px;
 
 }
 
 .product h5 {
     text-align: center;
-    font-size: 25px;
+
 
 }
 
+.product img{
+    width: 100%;
+    height: 20nop0px;
+
+}
+
+.product .prices {
+    display: flex;
+
+}
+
+.product .prices label {
+    flex: 1;
+}

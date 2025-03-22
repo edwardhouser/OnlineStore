@@ -1,0 +1,9 @@
+.about {
+    min-height: 200px;
+    background-color: white;
+}
+
+.about h2{
+    text-align: center;
+    color: darkcyan;
+}

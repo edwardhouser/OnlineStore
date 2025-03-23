@@ -1,5 +1,6 @@
+import Discount from "../components/Discounts";
 import ProductAdmin from "../components/ProductAdmin";
-import "./product.css";
+import "./admin.css";
 
 function Admin(){
 

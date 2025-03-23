@@ -1,16 +1,10 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import Catalog from './pages/Catalog'
-import Product from './components/product'
 import About from './pages/about'
 import Admin from './pages/admin'
 
-
-//loads bootstrap and icons
 
 // load bootstrap and icons
 import "bootstrap/dist/css/bootstrap.min.css";

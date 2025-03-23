@@ -1,8 +1,5 @@
 .catalog{
-    display: flex;
-    flex-direction: column;
-
-
+    background-color:rgba(77, 229, 138, 0.481)
 }
 
 .catalog h1 {
@@ -10,10 +7,3 @@
     color: blue;
 }
 
-.list {
-    display: inline-block;
-    width: 250px;
-    height: 320px;
-    margin-bottom: 12px;
-    margin-right: 12px;
-}

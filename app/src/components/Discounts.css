@@ -4,3 +4,12 @@
     padding: 10px;
     
 }
+
+.discounts .form-field{
+    margin-bottom: 12px;
+    text-align: left;
+}
+
+.discounts .form-field label{
+    display: block;
+}

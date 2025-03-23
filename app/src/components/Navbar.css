@@ -3,7 +3,7 @@
     align-items: center;
 }
 
-.navbar title {
+.navbar .title {
     font-size: 20px;
     font-weight: bold;
 
@@ -20,6 +20,9 @@
 
 }
 
-.navbar .title {
-
+.navbar ul li:hover {
+    color: tomato;
+    font-weight: 600;
+    cursor: pointer;
+    
 }

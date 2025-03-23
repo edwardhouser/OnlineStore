@@ -2,8 +2,8 @@ import "./Discounts.css"
 
 function Discount(){
 
-function save(){
-    console.log("saving discount");
+    function save(){
+        console.log("saving discount");
 }
 
     return(

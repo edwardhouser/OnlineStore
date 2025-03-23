@@ -1,11 +1,12 @@
 .product{
-    border: 1px solid black;
+    border: 2px solid black;
+    border-radius: 10px;
     display: inline-block;
     width: 250px;
-    height: 270px;
+    height: 400px;
     margin-right: 12px;
     margin-bottom: 12px;
-
+    background-color: white;
 }
 
 .product h5 {
@@ -16,7 +17,7 @@
 
 .product img{
     width: 100%;
-    height: 20nop0px;
+    height: 210px;
 
 }
 

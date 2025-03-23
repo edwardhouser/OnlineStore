@@ -2,9 +2,9 @@ import "./ProductAdmin.css"
 
 function ProductAdmin(){
 
-function save(){
-    console.log("saving product");
-}
+    function save(){
+        console.log("saving product");
+    }
 
     return(
         <div className="prod-admin">

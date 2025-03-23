@@ -1,5 +1,6 @@
 import "./Product.css";
 import QuantityPicker from "./QuantityPicker";
+import { useState } from 'react';
 
 function Product(props){
     const [quantity, setQuantity] = useState(1);
@@ -16,6 +17,7 @@ function Product(props){
     return (
         <div className="product">
             <img src={props.data.image}></img>
+            <h5> {props.data.title} </h5>
             <div className="prices">
                 <label className="unit">Total</label>
                 <label className="unit">Unit Price</label>
